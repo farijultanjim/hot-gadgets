@@ -1,0 +1,25 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.container{
+    margin-bottom: 100px;
+}
+
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    padding: 9px 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.banner-bg{
+    background-color: #e2dfdf;
+    border-radius: 10px;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
